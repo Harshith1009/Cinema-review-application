@@ -1,0 +1,183 @@
+[{
+        "id": 1,
+        "img": "https://media.gettyimages.com/id/458467163/photo/the-first-avenger-movie-poster.jpg?s=612x612&w=gi&k=20&c=Fc9E7HSJmEiviWNqmLsoXGgwOdpN8fv3qZ0fem6__rM=",
+        "rating": 7.1,
+        "name": "Captian America"
+    },
+    {
+        "id": 2,
+        "img": "https://m.media-amazon.com/images/I/71KPOvu-hOL._AC_SL1351_.jpg",
+        "rating": 8.1,
+        "name": "Joker"
+    },
+
+    {
+        "id": 3,
+        "img": "https://upload.wikimedia.org/wikipedia/en/1/16/Ulidavaru_Kandanthe_poster.jpg",
+        "rating": 8.8,
+        "name": "Ulidavaru kandanthe"
+    },
+    {
+        "id": 4,
+        "img": "https://static.toiimg.com/thumb/msid-87752696,width-219,height-317,imgsize-10410/87752696.jpg",
+        "rating": 8.9,
+        "name": "Garuda Gamana "
+    },
+    {
+        "id": 5,
+        "img": "https://m.media-amazon.com/images/M/MV5BNjQyNGI5OWEtZjI1Yy00NDVjLWE4MTAtMzRlNzU1NzM2OGVkXkEyXkFqcGdeQXVyMTA1NzEzOTU1._V1_UY1200_CR100,0,630,1200_AL_.jpg",
+        "rating": 8.3,
+        "name": "Kantara"
+    },
+    {
+        "id": 6,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8xY-9CbCKAkuthmmsGI6A0NEzuBDDrb3bmQ&usqp=CAU",
+        "rating": 8.0,
+        "name": "Fight club"
+    },
+    {
+        "id": 7,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCkFw8jv29RvWfSuZqZUcYDIFWOkPjfbuAKA&usqp=CAU",
+        "rating": 7.5,
+        "name": "Titanic"
+    },
+    {
+        "id": 8,
+        "img": "https://rukminim1.flixcart.com/image/416/416/jn3hocw0/poster/y/e/d/medium-hollywood-movie-wall-poster-pirates-of-the-caribbean-dead-original-imaf9uwyk5fh2hwx.jpeg?q=70",
+        "rating": 6.6,
+        "name": "Pirates of the caribbean"
+    },
+    {
+        "id": 9,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn5YorwPgq8J1NkV1-aNMcSjMqGXri3xqWMlhO2S2S1s7MlKlTmW0dSKu-IuzmIrg0VM&usqp=CAU",
+        "rating": 5.9,
+        "name": "Brahmastra"
+    },
+    {
+        "id": 10,
+        "img": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/received_188443509130467_240x360_crop_center.progressive.jpg?v=1660246536",
+        "rating": 7.2,
+        "name": "No time to die"
+    },
+    {
+        "id": 11,
+        "img": "https://www.themoviedb.org/t/p/original/xIDQqpLBYHrXE9G34UbVD9K0pvG.jpg",
+        "rating": 8.7,
+        "name": "Karnan"
+    },
+    {
+        "id": 12,
+        "img": "https://tse1.mm.bing.net/th?id=OIP.EELuKWxe74rcGyOwScgGowAAAA&pid=Api&P=0&h=180",
+        "rating": 8.7,
+        "name": "777 charlie"
+    },
+    {
+        "id": 13,
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzMYQhWZT0w7uJcWZc0DA9X__8kcs8ykde8qdknyrqBUnpHOguODzYx8crerOr_DgdBQUL0P1uyIkZ_9_afqDwddLONfBKVIbovDfw-5x-yWUU9KO0NqDSDeis_bm99arXn3Zdr3VufZLSoveD-lbq41IfzNHLxNZ7HJqnahv3eDJ3rUnmkxeHhny6Og/w680/Hoysala-Kannada-Movie-Full-Star-Cast-Crew-Wiki.jpg",
+        "rating": 8.0,
+        "name": "Hoysala"
+    },
+    {
+        "id": 14,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2w86OLXqgh1yJqkHVVfB_1i5EZZedwJM7FJ3gE7JtgxRlcES-1yCnx_MYKtb8nxJ_IpU&usqp=CAU",
+        "rating": 7.9,
+        "name": "Avane srimanarayana"
+    },
+    {
+        "id": 15,
+        "img": "https://cdn.shopify.com/s/files/1/0969/9128/products/Jaws-StevenSpielberg-HollywoodClassicActionMovieOriginalReleasePoster_large.jpg?v=1678552261",
+        "rating": 8.8,
+        "name": "Jaws"
+    },
+    {
+        "id": 16,
+        "img": "https://posters.movieposterdb.com/07_10/1998/120815/l_120815_e70398d8.jpg",
+        "rating": 8.9,
+        "name": "Saving private ryan"
+    },
+    {
+        "id": 17,
+        "img": "https://i.pinimg.com/originals/5c/e3/5a/5ce35a87a0a4e2682eb622fceaef503e.jpg",
+        "rating": 9.0,
+        "name": "Inception"
+    },
+    {
+        "id": 18,
+        "img": "https://images.squarespace-cdn.com/content/v1/5702ab9d746fb9634796c9f9/1570206011880-G7G59JFOV23504NCZMIA/MIDSTHD-04_PayoffKATrimmed_RGB-FIN_R13.jpg?format=1000w",
+        "rating": 7.2,
+        "name": "Midsommer"
+    },
+    {
+        "id": 19,
+        "img": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "rating": 8.2,
+        "name": "City of God"
+    },
+    {
+        "id": 20,
+        "img": "http://img2.wikia.nocookie.net/__cb20130420022756/disney/images/b/ba/Finding_Nemo-_2003.jpg",
+        "rating": 8.3,
+        "name": "Finding Nemo"
+    },
+    {
+        "id": 21,
+        "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Googly_2013_Kannada_Film.jpg/220px-Googly_2013_Kannada_Film.jpg",
+        "rating": 8.2,
+        "name": "Googly"
+    },
+    {
+        "id": 22,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu1og-MHfu29kH4N4lAgXy-ag_IVNvauVFi12Jzynke28F53MEovjBV9hh423m25Mspik&usqp=CAU",
+        "rating": 8.5,
+        "name": "Super Delux"
+    },
+    {
+        "id": 23,
+        "img": "https://media2.bollywoodhungama.in/wp-content/uploads/2016/03/71S1zFru6EL._RI_.jpg",
+        "rating": 7.9,
+        "name": "Rang De Basanthi"
+    },
+    {
+        "id": 24,
+        "img": "https://m.media-amazon.com/images/M/MV5BZWI2YWU2ODItYzBmNi00Yjc2LWJlMDQtMGJlMmUxM2M3NzMxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+        "rating": "N/A",
+        "name": "Oppenheimer"
+    },
+    {
+        "id": 25,
+        "img": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/joji-et00311373-25-05-2021-05-06-49.jpg",
+        "rating": 8.0,
+        "name": "Joji"
+    },
+    {
+        "id": 26,
+        "img": "https://images.squarespace-cdn.com/content/v1/5cf6959864dfad0001763314/1568017206611-7M82X7SXHZPE83E98VKG/Top_15_Movie_Posters_Her.jpg",
+        "rating": 7.7,
+        "name": "Her"
+    },
+    {
+        "id": 27,
+        "img": "https://assets-global.website-files.com/6009ec8cda7f305645c9d91b/6408f6e7b5811271dc883aa8_batman-min.png",
+        "rating": 8.0,
+        "name": "Bat-Man"
+    },
+    {
+        "id": 28,
+        "img": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/guru-shishyaru-et00339424-1662548063.jpg",
+        "rating": 8.3,
+        "name": "Guru Shishyaru"
+    },
+    {
+        "id": 29,
+        "img": "https://m.media-amazon.com/images/M/MV5BYzAxZTllMjctNDYzNy00NGVjLTg1MWEtZmY5NWRkYTM4NWFhXkEyXkFqcGdeQXVyMTI1MjQ5NDE2._V1_.jpg",
+        "rating": 6.1,
+        "name": "Hero"
+    },
+    {
+        "id": 30,
+        "img": "https://m.media-amazon.com/images/M/MV5BZDFmNmE2OTYtYmUxOC00ZjE0LWE4ZWEtNzdiMjYxMjIwMzBhXkEyXkFqcGdeQXVyODA4MDA0Mjg@._V1_FMjpg_UX1000_.jpg",
+        "rating": 4.0,
+        "name": "Kabza"
+    }
+
+]

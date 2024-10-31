@@ -1,0 +1,25 @@
+<div class="container">
+
+    <h1 id="title">Get reviews about your favorite movies</h1>
+
+    <form action="">
+        <h1>Welcome Back</h1>
+        <h2>Enter Login credentials</h2>
+
+        <label for="" class="email">Email</label>
+        <input type="text" class="iemail" name="hi" [(ngModel)]="id">
+
+        <label for="" class="password">Password</label>
+        <input [type]="ischecked" class="ipassword" name="hi" [(ngModel)]="password">
+        <div class="showpass">
+            <input type="checkbox" (click)="ischeckedfunc()">
+            <span style="margin-left: 10px;">Show password</span>
+        </div>
+
+
+        <button type="button" (click)="checkCredentials()">Sign In</button>
+        <span id="errormesg" style="color: red;"> {{errormesg}} </span>
+    </form>
+
+</div>
+<div class="container2"></div>

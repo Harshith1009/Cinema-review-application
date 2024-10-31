@@ -1,0 +1,27 @@
+<div class="container">
+
+    <h1 id="title">Get reviews about your favorite movies</h1>
+
+    <form action="" id="forms">
+
+        <h1>Welcome</h1>
+        <h2>Enter your details</h2>
+        <label for="name" id="lable">Name</label>
+        <input type="text" id="name" name="a" [(ngModel)]="name">
+        <label for="phn">Phone Number</label>
+        <input type="number" id="phn" name="a" [(ngModel)]="num">
+        <label for="email">Email</label>
+        <input type="email" id="email" name="a" [(ngModel)]="email">
+        <label for="pass">Password <span>(8 or more characters)</span></label>
+        <input [type]="ischecked" id="pass" name="a" [(ngModel)]="password">
+
+        <div class="showpass">
+            <input type="checkbox" (click)="showpassword()">
+            <span style="margin-left: 10px;">Show password</span>
+        </div>
+
+        <button (click)="signup()">Sign Up </button>
+        <span id="errormesg" style="color: red;">{{errormesg}}</span>
+    </form>
+
+</div>

@@ -1,0 +1,23 @@
+<div class="container">
+    <img src="https://www.pngplay.com/wp-content/uploads/6/Cinema-Transparent-Background.png" alt="">
+
+    <mat-form-field floatLabel="always" color="warn" *ngIf="route.url == '/openpage'" >
+        <input type="text"  placeholder="search" matInput [matAutocomplete]="auto" style="width: 200px;" [disabled]="isdisabled" [formControl]="myControl">
+        <mat-autocomplete #auto="matAutocomplete">
+            <mat-option *ngFor="let item of filteredOptions | async" [value]="item" (click)="navRev(item)">
+                {{item}}
+            </mat-option>
+        </mat-autocomplete>
+    </mat-form-field>
+
+
+
+    <div class="login">
+        <div [className]="toggleLogin" routerLink="/login">Login</div>
+        <div [className]="toggleLoginafter" routerLink="/login" (click)="logout()">Log out</div>
+
+        <span style="color: white; font-weight: bold;">{{name}}</span>
+
+        <div [className]="toggleLogin" routerLink="/Signup">SignUp</div>
+    </div>
+</div>
